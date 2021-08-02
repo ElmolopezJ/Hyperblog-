@@ -1,3 +1,5 @@
 esta es la historia de Elmo Lopez
 
 Elmo tiene 25 años y esta aprendiendo git y github, por esa razon vamos a hace este commit
+
+Hoy hablaremos de su vida
